@@ -2,7 +2,8 @@
 using namespace std;
 
 #define ll long long
-const ll INF = 1e15; // safe infinity
+const ll INF = 1e15;
+// floyd warshall tc:O(n^3)
 
 int main() {
     ios::sync_with_stdio(false);
